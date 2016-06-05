@@ -6,9 +6,9 @@ color:
   saturation: 0.27906589256599545
   rhythmicContrast: 0.570372047368437
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 name: TheStrategist2.com
