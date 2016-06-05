@@ -1,0 +1,1 @@
+# thestrategist2com
